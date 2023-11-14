@@ -1,0 +1,1 @@
+We used swin_tiny_patch4_window7_224.pth in the encoder branch, you can download it online
